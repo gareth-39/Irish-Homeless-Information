@@ -54,7 +54,7 @@ h1, h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
-.photo-outer {
+#photo-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
@@ -62,11 +62,28 @@ h1, h2 {
     position: relative;
 }
 
-.photo-image {
+
+#photo-image {
     height: 600px;
     width: 100%;
-    background: url('../images/hero-image.webp') no-repeat center center;
+    background: url('../images/photo\ 2.jpg') no-repeat center center;
+
+    
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
+
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
 
 
 
@@ -242,3 +259,30 @@ hr {
         clear: both;
         margin-bottom: 100px;
     }
+
+    #liquid-outer {
+        height: 600px;
+        width: 100%;
+        overflow: hidden;
+    
+        position: relative;
+    }
+    
+    
+    #liquid-image {
+        height: 600px;
+        width: 100%;
+        background: url('../images/friends.jpg') no-repeat center center;
+    
+    }
+    
+   
+    @keyframes hero-zoom {
+        from{
+            transform: scale(1);
+        }
+        to{
+            transform: scale(1.1);
+        }
+    }
+    
