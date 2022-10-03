@@ -84,66 +84,38 @@ h1, h2 {
     }
 }
 
-#page-ethos {
-    height: 600px;
-}
-
-#left-about {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
-}
-
-#right-about {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
-}
-
-#center-about {
-    width: 33%;
-    margin: 0 auto;
-}
-
-hr {
-    border-top: 1px solid #3a3a3a;
-    width: 100%;
-    margin: 5px 0;
-}
-
-.left-about-heading {
-    width: 60%;
-    float: right;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-}
-
-.right-about-heading {
-    width: 60%;
-    float: left;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-}
-
-.right-about-heading h2 {
-    text-align: right;
-}
-
-.right-about-heading p {
-    text-align: right;
-}
-
 #welcome {
     text-align: center;
-    margin: 20px 0;
-    font-size: 280%;
+    font-size: 50px;
+    padding: 2px;
+
 }
 
+#goal {
+    text-align: center;
+    font-size: 20px;
+}
+
+#info {
+    text-align: center;
+    font-size: 20px;
+}
+
+
+#contacts {
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+#merchants {
+    text-align: left;
+    font-size: 15px;
+}
 
 footer {
     height: 150px;
+    
 }
 
 .social-networks {
@@ -163,126 +135,6 @@ footer {
 
 
 @media screen and (max-width: 1200px) {
-    #club-ethos {
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-}
-
-#welcome {
-    padding: 30px 0;
-    margin: 0;
-}
-
-#left-about, #right-about {
-    width: 100%;
-    float: left;
-    padding: 0;
-}
-
-#center-about {
-    clear: both;
-    width: 100%;
-    float: left;
-    padding: 0;
-}
-
-
-
-hr {
-    display: none;
-}
-
-@media screen and (max-width: 950px) {
-
-    #menu {
-         clear: left;
-         float: left;
-         margin-left: 30px;
-         margin-bottom: 20px;
-         line-height: 25px;
-    }
-}
-
-#cover-text {
-    left: 0;
-}
-
-#pageg-ethos {
-    width: 90%;
-    height: 1200px;
-    margin: 0 auto;
-}
-
-.left-about-heading, .right-about-heading {
-    width: inherit;
-}
-
-.left-about-heading h2, .right-about-heading h2 {
-    width: 100%;
-    text-align: center;
-}
-
-.left-about-heading p, .right-about-heading p {
-    text-align: center;
-    padding: 0 20px;
-}
-
-#photo {
-    column-count: 3;
-}
-
-
-@media screen and (max-width: 800px) {
-    #photos {
-        column-count: 2;}
-
-    }
-
-    #contacts {
-        float: left;
-        font-size: 200%;
-        margin-left: 0px;
-    }
-    #contacts {
-        line-height: 75px;
-    }
-
-    .first-left-about-heading {
-        width: 60%;
-        float: left;
-        line-height: 20px;
-        clear: both;
-        margin-bottom: 100px;
-    }
-
-
-
-
-
-
-footer {
-    height: 150px;
-}
-
-.social-networks {
-    text-align: center;
-}
-
-.social-networks > li {
-    display: inline;
-}
-
-.social-networks i {
-    font-size: 160%;
-    margin: 0%;
-    padding: 5%;
-    color: #0000ff;
-}
-
-
-@media screen and (max-width: 1200px) {
     #page-ethos {
         width: 65%;
         height: 1200px;
@@ -290,19 +142,7 @@ footer {
     }
 }
 
-#contacts {
-    float: left;
-    margin-left: 0px;
-    font-size: 150%;
-}
 
-
-
-#merchants-heading {
-    float: left;
-    font-size: 100%;
-    margin-left: 0px;
-}
   
 #liquid-outer {
         height: 600px;
@@ -321,7 +161,7 @@ footer {
     }
     
    
-    @keyframes hero-zoom {
+    @keyframes photo-zoom {
         from{
             transform: scale(1);
         }
