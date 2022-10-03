@@ -67,7 +67,7 @@ h1, h2 {
     height: 600px;
     width: 100%;
     background: url('../images/photo\ 2.jpg') no-repeat center center;
-
+    
     
     animation-name: photo-zoom;
     animation-duration: 5s;
@@ -166,101 +166,28 @@ footer {
 
 
 @media screen and (max-width: 1200px) {
-    #club-ethos {
+    #page-ethos {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
     }
 }
 
-#welcome {
-    padding: 30px 0;
-    margin: 0;
-}
-
-#left-about, #right-about {
-    width: 100%;
+#contacts {
     float: left;
-    padding: 0;
+    margin-left: 0px;
+    font-size: 150%;
 }
 
-#center-about {
-    clear: both;
-    width: 100%;
+
+
+#merchants-heading {
     float: left;
-    padding: 0;
+    font-size: 100%;
+    margin-left: 0px;
 }
-
-
-
-hr {
-    display: none;
-}
-
-@media screen and (max-width: 950px) {
-
-    #menu {
-         clear: left;
-         float: left;
-         margin-left: 30px;
-         margin-bottom: 20px;
-         line-height: 25px;
-    }
-}
-
-#cover-text {
-    left: 0;
-}
-
-#pageg-ethos {
-    width: 90%;
-    height: 1200px;
-    margin: 0 auto;
-}
-
-.left-about-heading, .right-about-heading {
-    width: inherit;
-}
-
-.left-about-heading h2, .right-about-heading h2 {
-    width: 100%;
-    text-align: center;
-}
-
-.left-about-heading p, .right-about-heading p {
-    text-align: center;
-    padding: 0 20px;
-}
-
-#photo {
-    column-count: 3;
-}
-
-
-@media screen and (max-width: 800px) {
-    #photos {
-        column-count: 2;}
-
-    }
-
-    #contacts {
-        float: left;
-        font-size: 200%;
-        margin-left: 0px;
-    }
-    #contacts {
-        line-height: 75px;
-    }
-
-    .first-left-about-heading {
-        width: 60%;
-        float: left;
-        line-height: 20px;
-        clear: both;
-        margin-bottom: 100px;
-    }
-
-    #liquid-outer {
+  
+#liquid-outer {
         height: 600px;
         width: 100%;
         overflow: hidden;
@@ -288,4 +215,35 @@ hr {
 
     
     
-    
+    .form-section {
+        background: url('../images/1000x-1.png');
+        background-position: center;
+        background-size: cover;
+        height: 1000px;
+        
+    }
+
+    form h2 {
+        font-size: 32px;
+        font-weight: bolder;
+        line-height: 30px;
+        text-align: left;
+    }
+
+    label {
+        display: block;
+        margin-top: 28px;
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    input {
+        display: block;
+        height: 20px;
+        width: 30%;
+        border-radius: 3px;
+        padding: 0 10px;
+        margin-top: 2px;
+        font-size: 18px; 
+        font-weight: 300;
+    }
