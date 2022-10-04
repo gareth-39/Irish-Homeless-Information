@@ -19,7 +19,7 @@ h1, h2 {
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525;
+    color:red;
 }
 
 #logo {
@@ -37,6 +37,7 @@ h1, h2 {
 
 #menu, #logo {
     line-height: 75px;
+    color: red;
 }
 
 #menu li {
@@ -95,17 +96,20 @@ h1, h2 {
 #goal {
     text-align: center;
     font-size: 20px;
+    color: #0000ff;
 }
 
 #info {
     text-align: center;
     font-size: 20px;
+    color: #0000ff;
 }
 
 
 #contact {
     text-align: center;
     font-size: 20px;
+    color: #0000ff;
     
 }
 
@@ -258,3 +262,9 @@ footer {
     .form menu { 
         color: white;
     }
+
+    #words {
+        color: #0000ff;
+    }
+
+   
