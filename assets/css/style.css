@@ -19,7 +19,7 @@ h1, h2 {
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: red;
+    color: white;
 }
 
 #logo {
@@ -62,12 +62,18 @@ h1, h2 {
 
     position: relative;
 }
+#video {
+    text-align: left;
+    margin: 10px;
+    padding: auto;
+   
+}
 
 
 #photo-image {
     height: 600px;
     width: 100%;
-    background: url('../images/photo\ 2.jpg');
+    background: url('../images/home.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -91,29 +97,35 @@ h1, h2 {
     font-size: 50px;
     padding: 2px;
 
+
 }
 
+#page-ethos {
+    background: black;
+}
 
 #goal {
     text-align: center;
     font-size: 20px;
-    color: #0000ff;
+    color: orange;
 }
 
 #info {
     text-align: center;
     font-size: 20px;
-    color: #0000ff;
+    color: orange;
 }
 
 
 #contact {
     text-align: center;
     font-size: 20px;
-    color: #0000ff;
+    color: orange;
     
 }
 
+
+/* information page*/
 #info-sec h2 {
     text-align: center;
     font-size: 30px;
@@ -165,10 +177,40 @@ h1, h2 {
     color: red;
 }
 
+#liquid-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+}
+
+
+#liquid-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/friends.jpg') no-repeat center center;
+
+}
+
+
+@keyframes photo-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+/*footer section */
+
 footer {
     height: 150px;
     
 }
+
+/*socials*/
 
 .social-networks {
     text-align: center;
@@ -195,35 +237,6 @@ footer {
 }
 
 
-  
-#liquid-outer {
-        height: 600px;
-        width: 100%;
-        overflow: hidden;
-    
-        position: relative;
-    }
-    
-    
-    #liquid-image {
-        height: 600px;
-        width: 100%;
-        background: url('../images/friends.jpg') no-repeat center center;
-    
-}
-    
-   
-    @keyframes photo-zoom {
-        from{
-            transform: scale(1);
-        }
-        to{
-            transform: scale(1.1);
-        }
-}
-
-    
-    
 .form-section {
         background: url('../images/tunnel.jpg');
         background-position: center;
@@ -237,17 +250,15 @@ form h2 {
         font-size: 22px;
         font-weight: bolder;
         line-height: 30px;
-        text-align: left;
+        text-align: center;
         margin: 20px;
-        color: white;
+        color: red;
         padding: 1%;
 }
 
  .sign-list li {
-    color: white;
-    font-size: 22px;
-    font-weight: bolder;
-    line-height: 30px;
+    line-height: 75px;
+    color: red;
 
 }
 
@@ -257,7 +268,7 @@ label {
         margin-top: 28px;
         font-size: 16px;
         font-weight: 500;
-        color: white;
+        color: red;
     
 }
 
@@ -271,9 +282,7 @@ label {
         font-size: 18px; 
         font-weight: 300;
         margin: 50px;
-        color: white;
+        color: red;
 }
 
-.form menu { 
-        color: white;
-}
+
