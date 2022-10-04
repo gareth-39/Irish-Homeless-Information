@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,700&display=swap');
 
+/* homepage*/
 
 * {
     margin: 0;
@@ -37,7 +38,7 @@ h1, h2 {
 
 #menu, #logo {
     line-height: 75px;
-    color: red;
+    color: black;
 }
 
 #menu li {
@@ -54,6 +55,8 @@ h1, h2 {
 #menu a:hover {
     border-bottom: 1px solid #3a3a3a;
 }
+
+
 
 #photo-outer {
     height: 600px;
@@ -100,8 +103,10 @@ h1, h2 {
 
 }
 
+
 #page-ethos {
     background: black;
+    
 }
 
 #goal {
@@ -126,10 +131,17 @@ h1, h2 {
 
 
 /* information page*/
+
+
+#info-sec {
+     background: black;
+}
+
+
 #info-sec h2 {
     text-align: center;
     font-size: 30px;
-    color: #0000ff;
+    color: orange;
    
 }
 
@@ -138,7 +150,7 @@ h1, h2 {
 }
  
 #info-sec p {
-    color: blue;
+    color: white;
 }
 
 
@@ -146,35 +158,35 @@ h1, h2 {
     text-align: center;
     font-size: 17px;
     margin: 10px;
-    color:red;
+    color: orange;
 }
 
 #focus {
     text-align: center;
     font-size: 17px;
     margin: 10px;
-    color: red;
+    color: orange;
 }
 
 #dublin {
     text-align: center;
     font-size: 17px;
     margin: 10px;
-    color: red;
+    color: orange;
 }
 
 #saoirse {
     text-align: center;
     font-size: 17px;
     margin: 10px;
-    color: red;
+    color: orange;
 }
 
 #capuchin {
     text-align: center;
     font-size: 17px;
     margin: 10px;
-    color: red;
+    color: orange;
 }
 
 #liquid-outer {
@@ -207,7 +219,7 @@ h1, h2 {
 
 footer {
     height: 150px;
-    
+    background-color: black;
 }
 
 /*socials*/
