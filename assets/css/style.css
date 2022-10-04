@@ -232,7 +232,7 @@ footer {
 }
     
   
-    form h2 {
+form h2 {
         font-size: 22px;
         font-weight: bolder;
         line-height: 30px;
@@ -242,12 +242,12 @@ footer {
         padding: 1%;
 }
 
-#menu li {
-    color:white;
+ .sign-list li {
+    color: white;
     font-size: 22px;
     font-weight: bolder;
     line-height: 30px;
-   
+
 }
 
 
