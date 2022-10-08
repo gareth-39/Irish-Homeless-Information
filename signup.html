@@ -29,23 +29,33 @@
             </ul>
         </nav>
     </header>
-    <section id="form" class="form-section">
+
+    
         
-             <h2>Start the process! <i class="fas fa-hand-holding-heart"></i></h2>
-    </section>
-    <section id="label-input">
-             <label for="fname">First Name</label>
-             <input class="text-input" id="fname" name="first_name" type="text" required>
-             
-             <label for="lname">Last Name</label>
-             <input  class="text-input" id="lname" name="last_name" type="text" required>
-             
-             <label for="email">Email Address</label>
-             <input class="text-input" type="email" id="email" name="email_address" required>
-    </section>
-
-    </div>
-
+            <div id="signup-container">
+                <div id="signup-form">
+                    <h2>Start the process! <i class="fas fa-hand-holding-heart"></i></h2><br><br><br>
+                </div>
+                    <form method="post" value="https://formdump.codeinstitute.net/" class="signup-form">
+                            <div class="text-form">
+                                <div id="full-name">
+                                    <label for="fullname">Full name</label>
+                                    <br>
+                                    <input class="form-input" type="text" name="full_name" id="fullname" placeholder="Enter name" required>
+                                </div>
+                   <div id="email-address">
+                    <label for="email">Email Address</label>
+                    <br>
+                 <input class="form-input" type="email" name="email_address" id="email" placeholder="Enter email address" required>
+            </div>
+            </div><br>
+                           
+            <div id="submit-button">
+          <input class="submit" type="submit" value="Submit" >
+         </div>
+        </form>
+     
+           
     <footer>
         <ul class="social-networks">
             <li>
