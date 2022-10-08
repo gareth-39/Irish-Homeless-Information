@@ -317,7 +317,56 @@ footer {
     display: block
 }
 
- 
+ /* media queries */
+
+ @media screen and (max-width: 1200px) {
+    #page-ethos {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 950px) {
+
+    #menu {
+         clear: left;
+         float: left;
+         margin-left: 30px;
+         margin-bottom: 20px;
+         line-height: 25px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #photos-outer {
+        column-count: 2;}
+
+    }
+
+    @media screen and (max-width: 800px) {
+        #video {
+            column-count: 2;}
+    
+        }
+
+        @media screen and (max-width: 800px) {
+            #map {
+                column-count: 2;}
+        
+            }
+
+            @media screen and (max-width: 800px) {
+                #liquad-image {
+                    column-count: 2;}
+            
+                }
+
+                @media screen and (max-width: 800px) {
+                    .signup-form {
+                        column-count: 2;}
+                
+                    }
 
 
 
