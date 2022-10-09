@@ -220,7 +220,9 @@ h1, h2 {
 
 @media  screen and (max-width: 800px) {
     #liquid-image {
-       column-count: 1;
+        height: 600px;
+        width: 100%;
+        background: url('../images/friends.jpg')
     }
 }
 
@@ -235,14 +237,47 @@ h1, h2 {
 
 @media screen and (max-width: 950px) {
 
-    .form-input #full-name #email-address #submit {
+     #full-name  {
          clear: left;
          float: left;
-         margin-left: 30px;
+         margin-left: 2px;
          margin-bottom: 20px;
          line-height: 25px;
     }
 }
+
+@media screen and (max-width: 950px) {
+
+    #email-address {
+        clear: left;
+        float: left;
+        margin-left: 2px;
+        margin-bottom: 20px;
+        line-height: 25px;
+   }
+}
+
+@media screen and (max-width: 950px) {
+
+    #submit  {
+        clear: left;
+        float: left;
+        margin-left: 2px;
+        margin-bottom: 20px;
+        line-height: 25px;
+   }
+}
+
+@media screen and (max-width: 950px) {
+
+    body  {
+        clear: left;
+        float: left;
+        margin-left: 2px;
+        margin-bottom: 20px;
+        line-height: 25px;
+   }
+}  
 
 @keyframes photo-zoom {
     from{
