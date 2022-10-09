@@ -218,66 +218,7 @@ h1, h2 {
 
 }
 
-@media  screen and (max-width: 800px) {
-    #liquid-image {
-        height: 600px;
-        width: 100%;
-        background: url('../images/friends.jpg')
-    }
-}
 
-@media screen and (max-width: 1200px) {
-    #page-ethos {
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-}
-
-
-@media screen and (max-width: 950px) {
-
-     #full-name  {
-         clear: left;
-         float: left;
-         margin-left: 2px;
-         margin-bottom: 20px;
-         line-height: 25px;
-    }
-}
-
-@media screen and (max-width: 950px) {
-
-    #email-address {
-        clear: left;
-        float: left;
-        margin-left: 2px;
-        margin-bottom: 20px;
-        line-height: 25px;
-   }
-}
-
-@media screen and (max-width: 950px) {
-
-    #submit  {
-        clear: left;
-        float: left;
-        margin-left: 2px;
-        margin-bottom: 20px;
-        line-height: 25px;
-   }
-}
-
-@media screen and (max-width: 950px) {
-
-    body  {
-        clear: left;
-        float: left;
-        margin-left: 2px;
-        margin-bottom: 20px;
-        line-height: 25px;
-   }
-}  
 
 @keyframes photo-zoom {
     from{
@@ -375,8 +316,3 @@ footer {
     color:#000000;
     display: block
 }
-
-
-
-
-
