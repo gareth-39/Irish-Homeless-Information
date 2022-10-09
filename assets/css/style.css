@@ -69,7 +69,6 @@ h1, h2 {
 #video {
     text-align: left;
     margin: 2px;
-    padding: auto;
 }
 
 .video-block {
@@ -80,8 +79,6 @@ h1, h2 {
 #map {
     text-align: left;
     margin: 2px;
-    padding: auto;
-
 }
 
 .map-block {
