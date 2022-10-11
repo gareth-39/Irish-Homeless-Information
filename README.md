@@ -38,7 +38,7 @@ This got me thinking if there was just one website that anyone in this situation
 
 ## Html And Css Validator :
 My website has no isses on W3C css
-![Location](/assets/TEST%20images/W3C%20CSS%201%20(2).png)
+![Location](/assets/TEST%20images/W3C%20CSS%201%20(2).png)<br>
 ![Location](/assets/TEST%20images/W3C%20CSS%202%20(2).png)
 ![Location](/assets/TEST%20images/W3C%20CSS%203%20(2).png)
 
@@ -47,7 +47,7 @@ My website has no isses on W3C css
 ![Location](/assets/README%20images/friends%202.jpg)
 ![Location](/assets/README%20images/change%202.jpg)
 
-# Credit for other webites were i copied there work :
+#                         Credits :
 
 ##                       INDEX PAGE :
 Youtube video taken from http://youtube.com/
