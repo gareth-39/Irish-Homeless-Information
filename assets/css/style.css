@@ -24,28 +24,33 @@ h1, h2 {
     color: white;
 }
 
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 18px;
+}
+
 #logo {
-    float: left;
-    font-size: 150%;
+    font-size: 100%;
     margin-left: 20px;
+    white-space: nowrap;
 }
 
 
 
 #menu {
-    font-size: 150%;
-    letter-spacing: 4px;
+    font-size: 90%;
+    display: flex;
 }
 
 #menu, #logo {
-    line-height: 75px;
     color: white;
 }
 
 #menu li {
-    float: right;
+    white-space: nowrap;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right:20px;
 }
 
 #menu a {
@@ -58,26 +63,27 @@ h1, h2 {
 }
 
 #photo-outer {
-    height: 600px;
+    height: 70vh;
     width: 100%;
     overflow: hidden;
-
     position: relative;
 }
-#video {
+
+#video, #map {
     text-align: center;
-    margin: 2px;
+    width: 90%;
+    margin: 0 auto;
 }
 
 
-#map {
-    text-align: center;
-    margin: 2px;
+
+iframe{
+    width: 90%
 }
 
 
 #photo-image {
-    height: 600px;
+    height: 100%;
     width: 100%;
     background: url('../images/home.jpg');
     background-position: center;
@@ -108,8 +114,10 @@ h1, h2 {
 
 
 #page-ethos {
-    background: black;
-    
+    background: #333333a6;
+    padding: 20px;
+    width: 80%;
+    margin: 20px auto;
 }
 
 #goal {
@@ -310,8 +318,21 @@ footer {
 }  
 
 @media screen and (max-width: 600px) {
-    video {
-        width: 100%;
-        
-    }
+   
+}
+
+@media screen and (max-width: 768px) {
+   header{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   }
+
+   #logo{
+    margin-bottom: 20px;
+   }
+}
+
+@media screen and (max-width: 992px) {
+   
 }
