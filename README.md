@@ -34,4 +34,44 @@ This got me thinking if there was just one website that anyone in this situation
 <li> And a submit button</li>
 <li> A link to the social media platforms</li></ul><BR>
 
-# Html And Css Validator :
+# Tests:
+
+## Html And Css Validator :
+My website has no isses on W3C css
+![Location](/assets/TEST%20images/W3C%20CSS%201%20(2).png)
+![Location](/assets/TEST%20images/W3C%20CSS%202%20(2).png)
+![Location](/assets/TEST%20images/W3C%20CSS%203%20(2).png)
+
+# Image used on the website :
+![Location](/assets/README%20images/home%20read%20me%20.jpg)
+![Location](/assets/README%20images/friends%202.jpg)
+![Location](/assets/README%20images/change%202.jpg)
+
+# Credit for other webites were i copied there work :
+
+##                       INDEX PAGE :
+Youtube video taken from http://youtube.com/
+Map taken from http://googlemaps.com/
+Cover image taken from https://res.cloudinary.com/jerrick/image/upload/f_jpg,fl_progressive,q_auto,w_1024/u7aucfmrqzmycnl9kwr1.jpg
+
+##                          INFORMATION PAGE :
+### Cover image taken from https://thumbs.dreamstime.com/z/happy-friends-together-group-five-boys-girls-hugging-each-other-friendship-title-cartoon-hand-drawn-illustration-your-58846569.jpg
+Merchants Quay ethos, phone number and website taken from http://qui.ie/<br>
+Focus Ireland   ethos, phone number and website taken from http://focusireland.ie/<br>
+Saoirse Domestic Violence Service  ethos, phone number and website taken from http://sdvs.ie/<br>
+Dublin City Council  ethos, phone number and website taken from http://homelessdublin.ie/<br>
+Capuchin Day Centre ethos, phone number and website taken from http://capuchindaycentre.ie/<br>
+
+
+ ##                          SIGN UP PAGE :
+### Cover photo taken from : https://media.istockphoto.com/photos/light-at-the-end-of-the-tunnel-picture-id477948473?k=20&m=477948473&s=612x612&w=0&h=VslMOsY1jpOp8jBlKOAZlOw0yCcxZH3YZyC8LwXH0fc=
+
+##                          SOCIAL MEDIA LINKS  :
+### Taken from :
+http://facebook.com/<br>
+http://instagram.com/<br>
+http://youtube.com/<br>
+http://twitter.com/
+
+##                          Icons :
+http://fontawesome.com/ was used for all the icons 
