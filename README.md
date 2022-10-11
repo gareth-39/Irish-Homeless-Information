@@ -36,16 +36,28 @@ This got me thinking if there was just one website that anyone in this situation
 
 # Tests:
 
-## Html And Css Validator :
-My website has no isses on W3C css
-![Location](/assets/TEST%20images/W3C%20CSS%201%20(2).png)<br>
-![Location](/assets/TEST%20images/W3C%20CSS%202%20(2).png)
-![Location](/assets/TEST%20images/W3C%20CSS%203%20(2).png)
+# Html Validator :
+## My website has no isses on W3C Html : <br><br>
+![Location](/assets/README%20images/html%20v%201.png)
+![Location](/assets/README%20images/html%20v%202.png)
+![Location](/assets/README%20images/html%20v%203.png)
+
+# Css Validator :
+## My website has no isses on W3C Css : <br><br>
+![Location](/assets/README%20images/W3C%20CSS%201%20(2).png)
+![Location](/assets/README%20images/W3C%20CSS%202%20(2).png)
+![Location](/assets/README%20images/W3C%20CSS%203%20(2).png)
+
+# Lighthouse Results :
+![Location](/assets/README%20images/light%20house%2011.png)
+![Location](/assets/README%20images/lighthouse%202.png)
+![Location](/assets/README%20images/lighthouse%203.png)
 
 # Image used on the website :
-![Location](/assets/README%20images/home%20read%20me%20.jpg)
-![Location](/assets/README%20images/friends%202.jpg)
-![Location](/assets/README%20images/change%202.jpg)
+![Location](/assets/images/home.jpg)
+![Location](/assets/images/man%20and%20dog%20-%20Copy.jpg)
+![Location](/assets/images/change.jpg)
+
 
 #                         Credits :
 
@@ -55,7 +67,8 @@ Map taken from http://googlemaps.com/
 Cover image taken from https://res.cloudinary.com/jerrick/image/upload/f_jpg,fl_progressive,q_auto,w_1024/u7aucfmrqzmycnl9kwr1.jpg
 
 ##                          INFORMATION PAGE :
-### Cover image taken from https://thumbs.dreamstime.com/z/happy-friends-together-group-five-boys-girls-hugging-each-other-friendship-title-cartoon-hand-drawn-illustration-your-58846569.jpg
+### Cover image taken from https://i.pinimg.com/474x/90/b2/84/90b2849c2e96848c027b9d1940527cde--homeless-people-real-friends.jpg
+
 Merchants Quay ethos, phone number and website taken from http://qui.ie/<br>
 Focus Ireland   ethos, phone number and website taken from http://focusireland.ie/<br>
 Saoirse Domestic Violence Service  ethos, phone number and website taken from http://sdvs.ie/<br>
@@ -64,7 +77,8 @@ Capuchin Day Centre ethos, phone number and website taken from http://capuchinda
 
 
  ##                          SIGN UP PAGE :
-### Cover photo taken from : https://media.istockphoto.com/photos/light-at-the-end-of-the-tunnel-picture-id477948473?k=20&m=477948473&s=612x612&w=0&h=VslMOsY1jpOp8jBlKOAZlOw0yCcxZH3YZyC8LwXH0fc=
+### Cover photo taken from :
+ https://media.istockphoto.com/photos/light-at-the-end-of-the-tunnel-picture-id477948473?k=20&m=477948473&s=612x612&w=0&h=VslMOsY1jpOp8jBlKOAZlOw0yCcxZH3YZyC8LwXH0fc=
 
 ##                          SOCIAL MEDIA LINKS  :
 ### Taken from :
