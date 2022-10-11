@@ -26,14 +26,14 @@ h1, h2 {
 
 #logo {
     float: left;
-    font-size: 100%;
+    font-size: 150%;
     margin-left: 20px;
 }
 
 
 
 #menu {
-    font-size: 110%;
+    font-size: 150%;
     letter-spacing: 4px;
 }
 
@@ -65,22 +65,14 @@ h1, h2 {
     position: relative;
 }
 #video {
-    text-align: left;
+    text-align: center;
     margin: 2px;
 }
 
-.video-block {
-        background: black;
-
-}
 
 #map {
-    text-align: left;
+    text-align: center;
     margin: 2px;
-}
-
-.map-block {
-    background-color: black;
 }
 
 
@@ -268,11 +260,11 @@ footer {
     
   
 #signup-form h2 {
-   float: left;
-    font-size: 100%;
-    margin-left: 10px;
-    line-height: 75px;
-}
+    float: left;
+     font-size: 150%;
+     margin-left: 10px;
+     line-height: 75px;
+ }
 
 
 
@@ -315,4 +307,11 @@ footer {
     background-color: #fff6f6;
     color:#000000;
     display: block
+}  
+
+@media screen and (max-width: 600px) {
+    video {
+        width: 100%;
+        
+    }
 }
