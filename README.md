@@ -37,6 +37,7 @@ This got me thinking if there was just one website that anyone in this situation
 # Tests:
 # Am i Responsive Screenshot :
 ![Location](/assets/README%20images/am%20i%20responsive.png)
+
 # Html Validator :
 ## My website has no isses on W3C Html : <br><br>
 ![Location](/assets/README%20images/html%20v%201.png)
@@ -90,3 +91,6 @@ http://twitter.com/
 
 ##                          Icons :
 http://fontawesome.com/ was used for all the icons 
+
+
+Thank you for viewing my first project, i look forward to receiving your feed back.
