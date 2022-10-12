@@ -51,9 +51,9 @@ This got me thinking if there was just one website that anyone in this situation
 ![Location](/assets/README%20images/W3C%20CSS%203%20(2).png)
 
 # Lighthouse Results :
-![Location](/assets/README%20images/light%20house%2011.png)
-![Location](/assets/README%20images/lighthouse%202.png)
-![Location](/assets/README%20images/lighthouse%203.png)
+![Location](/assets/README%20images/index%20lighthouse.png)
+![Location](/assets/README%20images/info%20lighthouse.png)
+![Location](/assets/README%20images/signup%20lighthouse.png)
 
 # Image used on the website :
 ![Location](/assets/images/home.jpg)
@@ -97,5 +97,6 @@ http://twitter.com/
 ##                          Icons :
 http://fontawesome.com/ was used for all the icons 
 
-
-Thank you for viewing my first project, i look forward to receiving your feed back.
+# Finishing Summary :
+Thank you for viewing my first project, i look forward to receiving your feed back. This is a link to my github profile.<br><br>
+https://github.com/gareth-39
