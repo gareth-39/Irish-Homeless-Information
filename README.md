@@ -80,8 +80,9 @@ Capuchin Day Centre ethos, phone number and website taken from http://capuchinda
 
  ##                          SIGN UP PAGE :
 ### Cover photo taken from :
- https://media.istockphoto.com/photos/light-at-the-end-of-the-tunnel-picture-id477948473?k=20&m=477948473&s=612x612&w=0&h=VslMOsY1jpOp8jBlKOAZlOw0yCcxZH3YZyC8LwXH0fc=
-
+ https://media.istockphoto.com/photos/light-at-the-end-of-the-tunnel-picture-id477948473?k=20&m=477948473&s=612x612&w=0&h=VslMOsY1jpOp8jBlKOAZlOw0yCcxZH3YZyC8LwXH0fc=<br><br>
+## Sign up form :
+https://blog.hubspot.com/<br><br>
 # Code Institute :
 ## Love Running Project :
 ### I took some code from html and css of the love running project.<br><br>
@@ -93,6 +94,10 @@ http://facebook.com/<br>
 http://instagram.com/<br>
 http://youtube.com/<br>
 http://twitter.com/
+
+## DEBUGS :
+My code had 15 problems in html validator all problems were fixed image submitted to verify.
+
 
 ##                          Icons :
 http://fontawesome.com/ was used for all the icons 
