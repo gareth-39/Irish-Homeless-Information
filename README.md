@@ -104,4 +104,5 @@ http://fontawesome.com/ was used for all the icons
 
 # Finishing Summary :
 Thank you for viewing my first project, i look forward to receiving your feed back. This is a link to my github profile.<br><br>
-https://github.com/gareth-39
+https://github.com/gareth-39<br><br>
+ https://gareth-39.github.io/Irish-Homeless-Information/
